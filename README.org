@@ -1,0 +1,7 @@
+#+title: 10 PRINT
+
+My openFrameworks version of [[https://www.youtube.com/watch?v%3DbEyTZ5ZZxZs][Daniel Shiffman's 10 Print Coding Challenge]].
+
+TODO (Some day):
+- Other patterns
+- Colors
